@@ -1,0 +1,152 @@
+{
+  "tagName": "div",
+  "attributes": {
+    "class": "container px-4 py-5"
+  },
+  "children": [
+    {
+      "tagName": "h2",
+      "attributes": {
+        "class": "pb-2 border-bottom"
+      },
+      "textContent": "Columns with icons"
+    },
+    {
+      "tagName": "div",
+      "attributes": {
+        "class": "row g-4 py-5 row-cols-1 row-cols-lg-3"
+      },
+      "children": [
+        {
+          "tagName": "div",
+          "attributes": {
+            "class": "feature col"
+          },
+          "children": [
+            {
+              "tagName": "div",
+              "attributes": {
+                "class": "feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3",
+                "style": "width: 64px; height: 64px; border-radius: 12px;"
+              },
+              "children": [
+                {
+                  "tagName": "span",
+                  "attributes": {
+                    "class": "text-white fs-1"
+                  },
+                  "textContent": "▱"
+                }
+              ]
+            },
+            {
+              "tagName": "h3",
+              "attributes": {
+                "class": "fs-2 text-body-emphasis"
+              },
+              "textContent": "Featured title"
+            },
+            {
+              "tagName": "p",
+              "textContent": "Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words."
+            },
+            {
+              "tagName": "a",
+              "attributes": {
+                "href": "#",
+                "class": "icon-link"
+              },
+              "textContent": "Call to action →"
+            }
+          ]
+        },
+        {
+          "tagName": "div",
+          "attributes": {
+            "class": "feature col"
+          },
+          "children": [
+            {
+              "tagName": "div",
+              "attributes": {
+                "class": "feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3",
+                "style": "width: 64px; height: 64px; border-radius: 12px;"
+              },
+              "children": [
+                {
+                  "tagName": "span",
+                  "attributes": {
+                    "class": "text-white fs-1"
+                  },
+                  "textContent": "◎"
+                }
+              ]
+            },
+            {
+              "tagName": "h3",
+              "attributes": {
+                "class": "fs-2 text-body-emphasis"
+              },
+              "textContent": "Featured title"
+            },
+            {
+              "tagName": "p",
+              "textContent": "Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words."
+            },
+            {
+              "tagName": "a",
+              "attributes": {
+                "href": "#",
+                "class": "icon-link"
+              },
+              "textContent": "Call to action →"
+            }
+          ]
+        },
+        {
+          "tagName": "div",
+          "attributes": {
+            "class": "feature col"
+          },
+          "children": [
+            {
+              "tagName": "div",
+              "attributes": {
+                "class": "feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3",
+                "style": "width: 64px; height: 64px; border-radius: 12px;"
+              },
+              "children": [
+                {
+                  "tagName": "span",
+                  "attributes": {
+                    "class": "text-white fs-1"
+                  },
+                  "textContent": "♧"
+                }
+              ]
+            },
+            {
+              "tagName": "h3",
+              "attributes": {
+                "class": "fs-2 text-body-emphasis"
+              },
+              "textContent": "Featured title"
+            },
+            {
+              "tagName": "p",
+              "textContent": "Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words."
+            },
+            {
+              "tagName": "a",
+              "attributes": {
+                "href": "#",
+                "class": "icon-link"
+              },
+              "textContent": "Call to action →"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
