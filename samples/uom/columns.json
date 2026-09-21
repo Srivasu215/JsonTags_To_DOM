@@ -1,0 +1,17 @@
+[
+    {
+        "key": "ItemName",
+        "label": "Item Name",
+        "type": "string"
+    },
+    {
+        "key": "Rate",
+        "label": "Rate",
+        "type": "string"
+    },
+    {
+        "key": "WashType",
+        "label": "WashT ype",
+        "type": "string"
+    }
+]

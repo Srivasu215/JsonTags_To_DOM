@@ -1,0 +1,32 @@
+[
+  {
+    "ItemName": "Saree",
+    "Rate": 100,
+    "WashType":"DW"
+  },
+   {
+    "ItemName": "Pant",
+    "Rate": 80,
+    "WashType":"DW"
+  },
+   {
+    "ItemName": "Pant",
+    "Rate": 200,
+    "WashType":"PW"
+  },
+   {
+    "ItemName": "Short",
+    "Rate": 80,
+    "WashType":"DW"
+  },
+   {
+    "ItemName": "Jocket",
+    "Rate": 90,
+    "WashType":"DW"
+  },
+   {
+    "ItemName": "Pant",
+    "Rate": 80,
+    "WashType":"DW"
+  }
+]
